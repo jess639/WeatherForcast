@@ -1,0 +1,1006 @@
+[
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bg_right_overlay.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\me.yokeyword\\indexablestickylistview\\0.6.1\\res\\drawable-xhdpi-v4\\bg_right_overlay.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\message_creategroup_portrait.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\message_creategroup_portrait.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_instagram.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_instagram.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_kaixin.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_kaixin.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_linkedin.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_linkedin.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue059.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue059.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\base_comment_emo_bar.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\base_comment_emo_bar.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue411.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue411.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\zuojian1.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\zuojian1.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_renren.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_renren.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue108.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue108.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue056.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue056.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue416.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue416.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_right_qp.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\chat_right_qp.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_facebook.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_facebook.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\empty_picture.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\empty_picture.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_add_picture_press.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\chat_add_picture_press.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_add_press.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\chat_add_press.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\takeout_ic_back_disabled.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\takeout_ic_back_disabled.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue40d.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue40d.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\takeout_bg_btn_increase_pressed.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\takeout_bg_btn_increase_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue418.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue418.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue11a.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue11a.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\icon_set_normal.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\icon_set_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\radar_card_guide_hot.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\radar_card_guide_hot.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\gray_point.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\gray_point.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_login_p.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\btn_login_p.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\biz_video_list_play_icon_big.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\biz_video_list_play_icon_big.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_googleplus.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_googleplus.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\image_car.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\image_car.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\beauty_ic_sub_cate_more.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\beauty_ic_sub_cate_more.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_focus.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ic_focus.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\on.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\on.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\share_vp_back.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\share_vp_back.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_focus_select.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ic_focus_select.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\icon_contact_normal.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\icon_contact_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_shortmessage.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_shortmessage.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\icon_send.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\icon_send.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_email.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_email.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\welcome_android_slogan.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\welcome_android_slogan.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue408.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue408.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue414.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue414.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\icon_message_normal.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\icon_message_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_foursquare.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_foursquare.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\mini_setting_thumbs.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\mini_setting_thumbs.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\radar_card_people_good_highlighted.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\radar_card_people_good_highlighted.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\icon_msg_search.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\icon_msg_search.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_send_n.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\btn_send_n.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue401.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue401.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_tumblr.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_tumblr.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_voice_bg.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\chat_voice_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\takeout_ic_back_pressed.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\takeout_ic_back_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue407.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue407.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_evernote.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_evernote.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\travel__ic_share_weibo.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\travel__ic_share_weibo.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_back_nor.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\btn_back_nor.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue105.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue105.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tabbar_compose_background_icon_close.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\tabbar_compose_background_icon_close.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_wechatmoments.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_wechatmoments.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue415.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue415.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_add_camera_normal.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\chat_add_camera_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_send_n.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\chat_send_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_menu_star.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_star.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_send_press.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\btn_send_press.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\base_action_bar_more_bg_n.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\base_action_bar_more_bg_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\arrow.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\arrow.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tabbar_compose_idea.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\tabbar_compose_idea.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\checked.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\checked.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_tencentweibo.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_tencentweibo.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\message_menu_highlighted.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\message_menu_highlighted.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue410.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue410.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tabbar_compose_photo.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\tabbar_compose_photo.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\off.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\off.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_auth_title_back.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\msp_error.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\msp_error.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue40b.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue40b.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\map_btn_map_back_pressed.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\map_btn_map_back_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tabbar_compose_blur_background.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\tabbar_compose_blur_background.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_douban.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_douban.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\head.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\head.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\login_icon_account.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\login_icon_account.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\base_action_bar_add_bg_n.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\base_action_bar_add_bg_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\takeout_bg_btn_reduce_pressed.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\takeout_bg_btn_reduce_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\base_action_bar_back_bg_n.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\base_action_bar_back_bg_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\msms_item.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\msms_item.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\health_guide_men_selected.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\health_guide_men_selected.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\login_bg.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\login_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue40c.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue40c.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\wip_39.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\wip_39.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_vkontakte.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_vkontakte.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_emo_press.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\chat_emo_press.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue41f.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue41f.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_send_p.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\chat_send_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue40f.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue40f.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\about_mid_bg.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\about_mid_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\login_logo.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\login_logo.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue107.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue107.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\message_menu.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\message_menu.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_title_div.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_title_div.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue406.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue406.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\pagerwall.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\pagerwall.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\rate_star_big_on_holo_dark.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\rate_star_big_on_holo_dark.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_menu_forward.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_forward.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_logout_p.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\btn_logout_p.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_pinterest.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_pinterest.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\search_clear_pressed.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\search_clear_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_logout_n.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\btn_logout_n.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\base_action_bar_add_bg_p.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\base_action_bar_add_bg_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_select_bg.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ic_select_bg.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_add_normal.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\chat_add_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\base_horization_line.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\base_horization_line.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue404.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue404.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_dropbox.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_dropbox.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\auth_follow_cb_chd.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\auth_follow_cb_chd.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\takeout_account_ic_oauth_qq.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\takeout_account_ic_oauth_qq.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_logo.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_logo.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\navigationbar_icon_newchat_highlight.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\navigationbar_icon_newchat_highlight.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue405.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue405.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bg_chat_emote_selector.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\bg_chat_emote_selector.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ssdk_back_arr.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\search_clear_normal.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\search_clear_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_sohusuishenkan.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_sohusuishenkan.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\wall.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\wall.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\title_back.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\title_back.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\share_tb_back.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\share_tb_back.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\market_video.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\market_video.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_neteasemicroblog.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_neteasemicroblog.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\takeout_bg_btn_increase.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\takeout_bg_btn_increase.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\mwall.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\mwall.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue412.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue412.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\input_bg.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\input_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_time_block.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\chat_time_block.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\sms_item.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\sms_item.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_discuss.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ic_discuss.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\emo_delete_normal.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\emo_delete_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_menu_emoticons.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_emoticons.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue421.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue421.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\img_cancel.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\img_cancel.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\base_action_bar_back_bg_p.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\base_action_bar_back_bg_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tpl_logo.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\tpl_logo.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\base_action_bar_true_bg_p.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\base_action_bar_true_bg_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_clear.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\btn_clear.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_add_picture_normal.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\chat_add_picture_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_add_location_press.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\chat_add_location_press.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tabbar_compose_friend.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\tabbar_compose_friend.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\pin.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\pin.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\icon_to_send.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\icon_to_send.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\icon_set_press.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\icon_set_press.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\icon_contact_press.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\icon_contact_press.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue40e.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue40e.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_star_on_pressed_holo_dark.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\btn_star_on_pressed_holo_dark.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\auth_title_back.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\auth_title_back.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue417.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue417.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tabbar_compose_more.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\tabbar_compose_more.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\zuojian2.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\zuojian2.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_menu_user_on.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_user_on.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\auth_follow_cb_unc.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\auth_follow_cb_unc.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\emo_delete_press.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\emo_delete_press.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_sohumicroblog.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_sohumicroblog.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\login_icon_password.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\login_icon_password.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_dialog_email.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ic_dialog_email.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\base_edit_input.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\base_edit_input.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue40a.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue40a.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\icon_message_press.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\icon_message_press.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_flickr.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_flickr.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue00e.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue00e.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\travel__ic_share_qq.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\travel__ic_share_qq.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\base_action_bar_more_bg_p.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\base_action_bar_more_bg_p.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_twitter.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_twitter.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\statusdetail_comment_icon_like_highlighted.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\statusdetail_comment_icon_like_highlighted.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue409.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue409.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\jinzhancheck.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\jinzhancheck.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_qzone.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_qzone.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_menu_view.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_view.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue106.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue106.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tpl_title_back_arrow.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\tpl_title_back_arrow.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\white_point.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\white_point.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_wechat.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_wechat.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_add_camera_press.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\chat_add_camera_press.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\mh_wip_bk_heavy_fog.jpg",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\mh_wip_bk_heavy_fog.jpg"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_menu_send.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_send.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_left_qp.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\chat_left_qp.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_menu_home.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_home.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\map_ic_map_back.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\map_ic_map_back.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\base_action_bar_true_bg_n.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\base_action_bar_true_bg_n.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_emo_normal.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\chat_emo_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_cancel_back.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\btn_cancel_back.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue057.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue057.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_user_homepage_praise_pressed.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ic_user_homepage_praise_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_sinaweibo.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_sinaweibo.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_qq.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_qq.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\profile_button_video_play.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\profile_button_video_play.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\title_shadow.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\title_shadow.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue058.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue058.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_lockscreen_answer_active.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ic_lockscreen_answer_active.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\logo_youdao.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\logo_youdao.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_add_location_normal.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\chat_add_location_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue402.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue402.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\message_left.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\message_left.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\message_right.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\message_right.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue413.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue413.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_login_n.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\btn_login_n.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ue403.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\ue403.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\chat_voice_bg_press.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\chat_voice_bg_press.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\edittext_back.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\edittext_back.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\user_add_top_bg.9.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\user_add_top_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\Login\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\wip_40.png",
+        "source": "F:\\AndroidStudio\\Login\\app\\src\\main\\res\\drawable-xhdpi\\wip_40.png"
+    }
+]

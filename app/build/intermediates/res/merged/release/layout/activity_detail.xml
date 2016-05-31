@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.weather.activity.LoginActivity" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4152B6">
+
+        <TextView
+            android:layout_margin="10dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="今日详情"
+            android:textColor="@color/White"/>
+
+        <Button
+            android:id="@+id/back"
+            android:layout_margin="10dp"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/btn_back"/>
+        <Button
+            android:id="@+id/about_us"
+            android:layout_margin="10dp"
+            android:layout_alignParentRight="true"
+            android:text="关于"
+            android:textColor="@color/White"
+            android:textSize="14sp"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:background="#4658D1"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ProgressBar
+            android:id="@+id/progress"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            />
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/mListView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></android.support.v7.widget.RecyclerView>
+  </RelativeLayout>
+    
+
+</LinearLayout>
